@@ -5,7 +5,7 @@ Web Developer Jr
 ----------------
 
 * 🌍  I'm based in Buenos Aires
-* 🖥️  See my portfolio at [JmBalugano](http://www.jmbalugano.com)
+* 🖥️  See my portfolio at [JmBalugano](https://juanmb.netlify.app/)
 * ✉️  You can contact me at [juanbalugano@gmail.com](mailto:juanbalugano@gmail.com)
 
 ### Skills
