@@ -1,7 +1,7 @@
 Hi 👋 My name is Juan Manuel Balugano
 =====================================
 
-Web Developer Jr
+developer frontEnd Jr
 ----------------
 
 * 🌍  I'm based in Buenos Aires
