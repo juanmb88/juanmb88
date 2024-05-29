@@ -1,4 +1,4 @@
-Hi 👋 I'm Juan Manuel Balugano and I glad that you're here!
+Hi 👋 I'm Juan Manuel Balugano 
 =====================================
 I am a Jr frontEnd developer and in fact I study backend in a bootcamp and English as a second language
 ----------------
