@@ -1,7 +1,6 @@
-Hi 👋 My name is Juan Manuel Balugano
+Hi 👋 I'm Juan Manuel Balugano and I glad that you're here!
 =====================================
-
-developer frontEnd Jr
+I am a Jr frontEnd developer and in fact I study backend in a bootcamp and English as a second language
 ----------------
 
 * 🌍  I'm based in Buenos Aires
