@@ -4,7 +4,7 @@ I'm a Jr frontEnd developer and I'm studying backend in a bootcamp
 ----------------
 
 * 🌍  I'm based in Buenos Aires
-* 🖥️  See my portfolio at [JmBalugano](https://juanmb.netlify.app/)
+* 🖥️  See my portfolio at [JmBalugano](https://www.baluganojuan.com/)
 * ✉️  You can contact me at [juanbalugano@gmail.com](mailto:juanbalugano@gmail.com)
 
 ### Skills
