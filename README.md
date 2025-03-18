@@ -1,6 +1,6 @@
 Hi 👋 I'm Juan Manuel Balugano 
 =====================================
-I'm a Jr frontEnd developer and I'm studying backend in a bootcamp 
+I'm a Jr frontEnd developer
 ----------------
 
 * 🌍  I'm based in Buenos Aires
